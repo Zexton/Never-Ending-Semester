@@ -1,0 +1,1 @@
+draw_text(600, 300, "My Name is:");

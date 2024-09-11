@@ -1,0 +1,1 @@
+questionSize = array_length(global.Questions) - 1;

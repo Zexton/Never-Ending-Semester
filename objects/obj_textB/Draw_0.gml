@@ -1,0 +1,1 @@
+draw_text(obj_optB.x + 100, obj_optB.y, obj_optB.myAnswer);

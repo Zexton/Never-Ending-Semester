@@ -1,0 +1,11 @@
+draw_set_font(fnt_Title);
+instance_destroy(obj_optA);
+instance_destroy(obj_optB);
+instance_destroy(obj_optC);
+instance_destroy(obj_optD);
+instance_destroy(obj_textA);
+instance_destroy(obj_textB);
+instance_destroy(obj_textC);
+instance_destroy(obj_textD);
+instance_destroy(obj_questionBox);
+instance_destroy(obj_nextButton);

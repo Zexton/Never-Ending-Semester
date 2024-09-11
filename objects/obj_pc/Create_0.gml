@@ -1,0 +1,1 @@
+depth += obj_char.depth -1;

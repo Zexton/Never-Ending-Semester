@@ -1,0 +1,1 @@
+spr_najib.draw_9slice(obj_najib.x,obj_najib.y,98,86,spr_najib,spr_najib)
